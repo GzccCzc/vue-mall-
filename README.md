@@ -5,6 +5,4 @@
 ![text](https://raw.githubusercontent.com/GzccCzc/vue-mall-/master/1.PNG)
 ![text](https://raw.githubusercontent.com/GzccCzc/vue-mall-/master/2.PNG)
 ![text](https://raw.githubusercontent.com/GzccCzc/vue-mall-/master/3.PNG)
-![text](https://raw.githubusercontent.com/GzccCzc/vue-mall-/master/4.PNG)
-![text](https://raw.githubusercontent.com/GzccCzc/vue-mall-/master/5.PNG)
 ![text](https://raw.githubusercontent.com/GzccCzc/vue-mall-/master/6.PNG)
