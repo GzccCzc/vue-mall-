@@ -1,0 +1,17 @@
+<template>
+    <a href="https://act.mogujie.com/zzlx67">
+        <img src="../../../assets/img/home/recommend_bg.jpg">
+    </a>
+</template>
+
+<script>
+    export default {
+        name: "FeatureView"
+    }
+</script>
+
+<style scoped>
+    img{
+        width: 100%;
+    }
+</style>
