@@ -1,29 +1,10 @@
-# tabbar
+基于蘑菇街api接口数据
+使用vue全家桶 axios vuex  vue-router vue-cli
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![text](https://raw.githubusercontent.com/GzccCzc/vue-mall-/master/0.PNG)
+https://raw.githubusercontent.com/GzccCzc/vue-mall-/master/1.PNG
+https://raw.githubusercontent.com/GzccCzc/vue-mall-/master/2.PNG
+https://raw.githubusercontent.com/GzccCzc/vue-mall-/master/3.PNG
+https://raw.githubusercontent.com/GzccCzc/vue-mall-/master/4.PNG
+https://raw.githubusercontent.com/GzccCzc/vue-mall-/master/5.PNG
+https://raw.githubusercontent.com/GzccCzc/vue-mall-/master/6.PNG
